@@ -1,4 +1,4 @@
-### Github Profile 🏆
+## Github Profile 🏆
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cottoncandy31&layout=compact&show_icons=true&theme=onedark" />
